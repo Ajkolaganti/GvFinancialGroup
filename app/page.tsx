@@ -136,7 +136,7 @@ export default function Home() {
             >
               <h2 className="text-4xl font-bold mb-4">Contact Us</h2>
               <p className="text-lg text-gray-600">
-                Let's discuss how we can help you achieve your financial goals
+                Let&apos;s discuss how we can help you achieve your financial goals
               </p>
             </motion.div>
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
