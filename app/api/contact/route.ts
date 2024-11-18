@@ -25,7 +25,7 @@ export async function POST(request: Request) {
         from: 'GV Financial <onboarding@resend.dev>',
         to: ['kolagantiaj1@gmail.com'],
         subject: `New Contact Form Submission from ${fullName}`,
-        reply_to: email,
+        replyTo: email,
         html: `
           <!DOCTYPE html>
           <html>
